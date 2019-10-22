@@ -60,7 +60,7 @@ public class Rockpaperscissors {
 					botvsbot();
 					break;
 				case 2:
-					playervsbot();d
+					playervsbot();
 					break;
 				case 3:
 					kill = true;
