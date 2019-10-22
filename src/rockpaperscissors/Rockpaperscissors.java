@@ -67,7 +67,6 @@ public class Rockpaperscissors {
 					break;
 				}
 			}
-			
 		}
 	
 	private static void botvsbot() {
